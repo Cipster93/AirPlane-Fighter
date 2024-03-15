@@ -1,0 +1,28 @@
+.container {
+    position: absolute;
+    margin-left: 900px;
+    margin-top: 300px;
+    width: 700px;
+    height: 700px;
+    border: 1px solid black;
+    border-radius: 20px;
+}
+
+.airPlane {
+    width: 40px;
+    height: 30px;
+    background-color: rgb(115, 37, 189);
+    border: 2px solid black;
+    border-radius: 20px; 
+    position: absolute;
+    top: 600px;
+    left: 500px;
+}
+.obstacle{
+    width: 40px;
+    height: 30px;
+    background-color: rgb(199, 121, 4);
+    border: 2px solid black;
+    border-radius: 20px; 
+    position: absolute;
+}
