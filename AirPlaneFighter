@@ -7,9 +7,10 @@
     <title>AirPlane Fighter</title>
 </head>
 <body>
-    <div class="container">
-        <div class="airPlane" id="plane"></div>
-        <div class="obstacle" id="obstacles"></div>
+    <h1 class="firstTitle">AirPlane Fighter</h1>
+    <p class="score" id="score">Score:0</p>
+    <div class="board" id="board">
+        <div class="plane" id="pl"></di>
     </div>
     <script type="text/javascript" src="Plane.js"></script>
 </body>
